@@ -9,10 +9,10 @@
 </p>
 
 
-# Input data
+## Input data
 Input point clouds were scanned using iPhone 12 Pro LiDAR Scanner.
 
-# Visualization of merged point cloud
+## Visualization of merged point cloud
 ![first](img/viz.gif)
 
 ## References:
